@@ -1,0 +1,8 @@
+Police checkpoint point analysis.
+
+Questions to be answered
+
+1. Does a persons gender influence their driving habits( who speeds more)?
+2. Does gender affect who gets searched during a stop? 
+3. Find the mean stop_duration
+4. Compare the age distirbution for each violation
