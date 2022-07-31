@@ -1,0 +1,20 @@
+The Weather Dataset
+
+This is a time-series dataset with per-hour information about the weather conditions at a particular location. It records Temperature, Dew Point Temperature. 
+Relative Humidity, Wind Speed, Visibility, Pressure and Conditions.
+
+The dataset is a CSV file, I will use Pandas to analyze the data and answer the following questions:
+
+1. Find all the uniques wind speed values in the data.
+2. Find the number of times when the weather was exactly clear.
+3. Find the mumber of the times the wind speed was exactly 4km/h.
+4. What is the mean Visibility, Standard Deviation of Pressure, variance of Relative humididty?
+5. Find all instances when snow was recorded.
+6. Find all instances when wind speed is above 24 and visibility is 25.
+7. What is the mean value of each column agains each weather condition.
+8. What is the min, max value of each column against the weather conditons.
+9. Show all the records where weather condition is fog.
+10.Find all instances when weather is clear and visibility is above 40.
+11.Find instances when weather is clear and humidity is greater than 50 or visibility is above 40.
+12.Plot the time series.
+
