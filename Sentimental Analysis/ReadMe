@@ -1,0 +1,4 @@
+ We are going to use a Dataset consisting of data related to the tweets from 24th of july 2020 to 30th of august 2020
+ with covid19 hashtags. We are going to apply sentimental analysis on the tweets to see peoples reactions to the 
+ pandemic during the mentioned period. We are going to label the tweets as Positive, Negative and Neutral. 
+ After that we are going to visualize the result to see the people reactions on twitter.
